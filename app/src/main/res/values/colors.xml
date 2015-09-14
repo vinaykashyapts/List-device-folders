@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#ffffff</color>
+    <color name="grey">#eeeeee</color>
+    <color name="app_theme">#9fe3d3</color>
+    <color name="app_theme_dark">#6cbab2</color>
+    <color name="normal">#fcfcfc</color>
+</resources>

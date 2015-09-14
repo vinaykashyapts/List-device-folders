@@ -1,0 +1,15 @@
+<resources><!-- your theme inherits from the material theme -->
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- theme customizations -->
+        <!-- Main theme colors -->
+        <!--   your app branding color for the app bar -->
+        <item name="colorPrimary">@color/app_theme</item>
+        <!--   darker variant for the status bar and contextual app bars-->
+        <item name="colorPrimaryDark">@color/app_theme_dark</item>
+        <!--   theme UI controls like checkboxes and text fields
+        <item name="colorAccent">@color/white</item>-->
+        <item name="android:textColorPrimary">@color/white</item>
+        <!-- remove shadow below action bar -->
+        <item name="android:elevation">1dp</item>
+    </style>
+</resources>
